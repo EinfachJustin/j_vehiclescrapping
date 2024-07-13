@@ -35,7 +35,7 @@ This script seamlessly integrates with the ESX framework, providing a smooth and
 ## 🚀 Installation
 
 1. Download the script and extract it into your `resources` folder.
-2. Add `ensure j_verschrotten` (or the name of your resource folder) to your `server.cfg`.
+2. Add `j_vehiclescrapping` (or the name of your resource folder) to your `server.cfg`.
 3. Configure the `config.lua` to your liking.
 4. Restart your FiveM server.
 
