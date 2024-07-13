@@ -14,7 +14,7 @@ This FiveM script enhances the roleplaying experience by allowing players to scr
 This script seamlessly integrates with the ESX framework, providing a smooth and immersive experience for both players and server administrators. Whether managing vehicle inventory, roleplaying as a scrap dealer, or implementing server-wide economic policies, this tool offers a flexible and robust solution for vehicle management in FiveM servers.
 
 
-![Vehicle Scrapping](https://i.imgur.com/vehiclescrapping)
+![Vehicle Scrapping](https://i.imgur.com/vehiclescrapping.png)
 
 
 ## ✨ Features
