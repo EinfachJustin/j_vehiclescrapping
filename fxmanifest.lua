@@ -1,8 +1,8 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'e1nfachjustin'
-description 'Vehicle Scrapping Script'
+author 'Ihr Name'
+description 'Fahrzeug-Verschrottungs-Skript'
 version '1.0.0'
 lua54 'yes'
 
