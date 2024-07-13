@@ -57,6 +57,13 @@ Players can use the `/myvehicles` command to open the scrapping menu.
 
 The script currently supports English and German. You can easily add more languages in the `config.lua`.
 
+## 🚫 Not Included
+
+Please note that this script does not include:
+
+- A vehicle key system
+- Custom notification scripts
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please fork the project and submit a pull request.
